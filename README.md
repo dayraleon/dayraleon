@@ -1,6 +1,6 @@
 # Hey Everyone! ❤️
 ## Get to know me 😊
-  * 👋 Hi, I’m Dayra Leon.
+  * 👋 Hey guys, I’m Dayra Leon and I am a current student at the University of La Verne.
   * 👀 I’m interested in Computer Science and Mathematics.
   * 🌱 I’m currently learning Data Structures and Algorithms.
   * ⚡ Fun fact: I Love Coffee!! ☕️ 
